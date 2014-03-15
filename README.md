@@ -4,10 +4,10 @@ Python-TheHardWay
 Completed exercises from Zed Shaw's book *Learn Python The Hard Way*.
 
 
-**Contact:**
+**Contact:**  
+Arvin Behshad  
+http://arvinb.com
 
-
-Arvin Behshad  http://arvinb.com
-
-CS student at KTH - Royal Institute of Technology  Stockholm, Sweden
+CS student at KTH - Royal Institute of Technology  
+Stockholm, Sweden
 
